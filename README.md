@@ -1,6 +1,5 @@
 # Clinical-Decision-Support-System_Nikhil_Warge
 
-# 🧠 Clinical Decision Support System (CDSS) – Agentic AI with Ayurveda + Groq
 
 **Playing with coding is fun when you understand it!**
 
@@ -26,7 +25,29 @@ This project is an **Agentic AI-powered Clinical Decision Support System (CDSS)*
 This system integrates **traditional Ayurvedic knowledge** with modern AI, aiming to offer holistic, personalized care through intelligent clinical reasoning.
 
 ---
+Example Questions: 
+------------------------
+🌿 Ayurvedic Symptom-Based Input Queries
+I have had a dry cough and sore throat for the past 3 days. What could be the possible imbalance?
 
+My digestion is very slow, I feel bloated and tired after meals.
+
+I'm experiencing frequent headaches and heaviness in the head. Suggest an Ayurvedic diagnosis.
+
+Persistent lower back pain and stiffness especially in the morning.
+
+My skin is getting dry and flaky, and I feel very anxious lately.
+
+What does Ayurveda say about burning sensation during urination?
+
+I often feel constipated and my appetite is very irregular.
+
+Can you suggest treatment for excess pitta and heat in the body?
+
+What should I take for fatigue and lack of motivation according to Ayurveda?
+
+I'm facing hair loss and dandruff, which dosha might be aggravated?
+------------------------
 ## 🧰 Tech Stack
 
 | Component         | Tool / Library                        |
